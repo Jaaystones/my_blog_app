@@ -10,6 +10,9 @@ function App() {
           <a href="">Register</a>
         </nav>
       </header>
+      <div className= "Entries">
+        
+      </div>
     </main>
   );
 }
